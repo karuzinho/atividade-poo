@@ -1,0 +1,9 @@
+a) Algoritmo é uma sequência organizada de passos para resolver um problema. Ele é importante porque transforma uma necessidade em instruções que o computador consegue executar.
+
+b) Variáveis guardam valores durante a execução. Tipos comuns em Python: int (10), float (7.5), str ("Ana"), bool (True), list ([1, 2, 3]) e dict ({"nome": "Ana"}).
+
+c) input() recebe dados digitados pelo usuário. print() mostra informações na tela.
+
+d) Operadores aritméticos fazem cálculos, como 5 + 2. Relacionais comparam valores, como 5 > 2. Lógicos combinam condições, como idade >= 18 and possui_documento.
+
+e) if, elif e else escolhem qual caminho executar de acordo com uma condição. for e while repetem instruções: for é adequado quando há uma quantidade ou coleção definida; while é útil enquanto uma condição continuar verdadeira.
