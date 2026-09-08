@@ -1,0 +1,11 @@
+a) CRUD significa Create, Read, Update e Delete: cadastrar, consultar/listar, atualizar e excluir dados.
+
+b) Modularização é dividir o programa em funções ou módulos. Isso deixa o código mais organizado e facilita testar ou alterar uma parte sem mexer no restante.
+
+c) Listas e dicionários existem apenas enquanto o programa está aberto. Arquivos mantêm os dados salvos para a próxima execução, evitando que os cadastros sejam perdidos.
+
+d) CSV organiza dados em linhas e colunas, sendo útil para planilhas e relatórios. JSON suporta estruturas mais completas, como listas de objetos, e é adequado para salvar cadastros de equipamentos ou Pokémon.
+
+e) Classe é o molde, por exemplo Pokemon. Objeto é uma instância, como um Pikachu cadastrado. Atributos são seus dados, como nome e nível. Métodos são suas ações, como atualizar os dados ou exibir um resumo.
+
+f) A POO representa cada entidade do sistema em classes. O CRUD organiza as operações sobre essas entidades; funções e módulos separam responsabilidades; e os arquivos guardam os dados entre execuções. Juntos, esses recursos deixam o sistema mais claro, reutilizável e fácil de manter.
