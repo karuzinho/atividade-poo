@@ -1,0 +1,11 @@
+a) for repete um bloco para cada item de uma sequência ou para uma quantidade conhecida. while repete enquanto uma condição for verdadeira, sendo adequado quando não se sabe de antemão quantas vezes será necessário repetir.
+
+b) Função é um bloco reutilizável que executa uma tarefa. Dividir o programa em funções reduz repetição e torna cada parte mais fácil de entender, testar e alterar.
+
+c) Parâmetro é a variável declarada na definição da função. Argumento é o valor enviado na chamada. Valor de retorno é o resultado devolvido pela função usando return.
+
+d) Lista guarda valores em ordem e permite acesso por posição; por exemplo, a lista de notas de uma turma. Dicionário guarda pares chave-valor; por exemplo, dados de um estudante identificados pela matrícula.
+
+e) try contém um trecho que pode causar erro e except define como tratar o problema. Isso evita que uma entrada inválida encerre o programa de forma inesperada.
+
+f) Docstring é um texto logo abaixo da definição de uma função, classe ou módulo. Ela documenta a finalidade e ajuda outras pessoas a usar e manter o código.
